@@ -1,6 +1,6 @@
 # Daniel Olaniyan
 
-**Senior AI Product Manager & Systems Architect** — Lagos, Nigeria
+**Senior AI Product Manager & Systems Architect**
 
 I don't stop at the roadmap. I design, code and ship the production systems I specify.
 
